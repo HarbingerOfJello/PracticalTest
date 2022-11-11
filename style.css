@@ -1,0 +1,149 @@
+body{background: black;
+  background-image: url("—Pngtree—silver glitter confetti on a_5455294.png");
+    height: 500vh;
+    background-position: center;
+    background-repeat:repeat;
+    background-size: cover
+
+  }
+
+p{color: white}
+a{
+  color: orange
+}
+
+
+.headers{
+  color: orange;
+}
+
+.sectionslinks{
+  text-align: center;
+  text-decoration:none;
+  align-content: center;
+  width: 1550px;
+  border: 10px solid orange;
+  border-radius: 5px;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+
+.introductionpage{
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+
+.closed{
+		display: none;
+}
+
+
+button{
+			width:150px;
+  			background-color: grey;
+  			margin-left:15px;
+  			font-size:120%;
+  		}
+
+#demo1{
+  		color:white;
+			background-color: orange;
+      padding:50px;
+      font-size:120%
+}
+
+.introductionpagetext{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .Infoaboutme{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+  }
+
+.sectionslinks{
+  text-decoration: none;
+  border-style: ridge;
+}
+
+
+  .contacts{
+    color: white
+    border-style: ridge;
+    border-color: white;
+    border-radius: 5px;
+    ;
+
+  }
+
+.skill{
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  border-style: ridge;
+  border-color: white;
+  border-radius: 5px;
+}
+
+.interest{
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  border-style: ridge;
+  border-radius: 5px;
+}
+
+.language{
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  border-style: ridge;
+  border-radius: 5px;
+}
+
+.education{
+color: white;
+font-family: sans-serif;
+font-size: 20px;
+text-align: left;
+border-style: ridge;
+border-radius: 5px;
+}
+
+
+.workingexperience{
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  border-style: ridge;
+  border-radius: 5px;
+}
+
+.activity{
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  border-style: ridge;
+  border-radius: 5px;
+}
